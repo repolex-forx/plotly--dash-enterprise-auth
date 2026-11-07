@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "dash-enterprise-auth",
+  "versions": [
+    {
+      "commit": "71f00ab5cc5ee15af59577900d4e72c53bd3e852",
+      "parsed_at": "2026-11-07T02:26:18.937949+00:00",
+      "filetree": "filetree/71f00ab5cc5ee15af59577900d4e72c53bd3e852.nq.gz",
+      "blobs": [
+        "blob/07ccac31607bcf5488252f2793c17dc1cdc03f73.nq.gz",
+        "blob/bb3ec5f0d4c70ef732aa4d399282a5ddb2a008fd.nq.gz",
+        "blob/92d8849887e6abb107025e94c4bf54749dec5eab.nq.gz",
+        "blob/bc8371522911dae5c57fa15028a9c84eeb316709.nq.gz",
+        "blob/218d6dacdd473ba8064558d38c000708a730304e.nq.gz",
+        "blob/c3d642f488298459532a80f4c58b81650967240e.nq.gz",
+        "blob/72c52d62dfb338b7001dc56b88caa0b16188e3ba.nq.gz",
+        "blob/ea67c9fa12dfed827fd73d563ca304b6a7847114.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/dede420a62b8bfd7d03a86e1e0e77b2bcbc259ef.nq.gz",
+        "blob/44b18069b778d38decf1beaf61b6c034ee03d6d5.nq.gz",
+        "blob/9321e6a400d7d50f934323793424f744c574f26d.nq.gz",
+        "blob/a6a400b93aea6b11f5da26bff9c2cc14f70a8854.nq.gz",
+        "blob/894a44cc066a027465cd26d634948d56d13af9af.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
