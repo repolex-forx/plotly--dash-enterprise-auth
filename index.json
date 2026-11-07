@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-enterprise-auth",
+  "versions": [
+    {
+      "commit": "71f00ab5cc5ee15af59577900d4e72c53bd3e852",
+      "tag": "",
+      "parsed_at": "2026-11-07T02:28:16.205101+00:00"
+    }
+  ]
+}
